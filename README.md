@@ -1,6 +1,6 @@
-  -  👋 Hi, I’m @1Patricio
-- 👀 I’m interested in  Fron-End
-- 🌱 I’m currently learning  HTML, CSS, JavaScript
+  -  👋 Hi, I’m @1Patricio  
+  -     👀 I’m interested in  Fron-End  
+- 🌱 I’m currently learning  java
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 

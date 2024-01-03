@@ -1,6 +1,6 @@
-  -  👋 Hi, I’m @1Patricio  
-  -     👀 I’m interested in  Fron-End  
-- 🌱 I’m currently learning  java
+- 👋 Hi, I’m @1Patricio  
+- 👀 I’m interested in  Front-End  
+- 🌱 I’m currently learning  JavaScript
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
